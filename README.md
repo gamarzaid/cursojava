@@ -1,2 +1,2 @@
-# cursojava
-Programación en Java para Cibernética y Computación II
+# Curso Java
+Programación en Java para Cibernética y Computación II - CCH Oriente
